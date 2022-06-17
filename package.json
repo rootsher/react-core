@@ -1,0 +1,10 @@
+{
+  "name": "@rootsher/react-core",
+  "version": "0.1.0",
+  "description": "Core library for React projects",
+  "main": "index.js",
+  "repository": "git@github.com:rootsher/react-core.git",
+  "author": "Konrad Kowalski <rootsher@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
