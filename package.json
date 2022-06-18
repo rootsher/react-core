@@ -1,9 +1,9 @@
 {
   "name": "@rootsher/react-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Core library for React projects",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/lib/index.js",
+  "types": "dist/lib/index.d.ts",
   "repository": "git@github.com:rootsher/react-core.git",
   "author": "Konrad Kowalski <rootsher@gmail.com>",
   "license": "MIT",
