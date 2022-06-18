@@ -2,7 +2,8 @@
   "name": "@rootsher/react-core",
   "version": "0.1.0",
   "description": "Core library for React projects",
-  "main": "lib/index.tsx",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": "git@github.com:rootsher/react-core.git",
   "author": "Konrad Kowalski <rootsher@gmail.com>",
   "license": "MIT",
@@ -10,7 +11,8 @@
   "scripts": {
     "build": "tsc",
     "test": "jest",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "prepublish": "yarn build"
   },
   "dependencies": {
     "react": "^18.2.0",

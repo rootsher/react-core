@@ -23,8 +23,8 @@ $ yarn test
 3. **~~Add .editorconfig~~**
 4. **~~Configure eslint~~**
 5. **~~Add husky and lint-staged~~**
-6. Repository cleanup
-7. **Make package installable (npm)**
+6. [in progress] Repository cleanup
+7. [in progress] **Make package installable (npm)** (main export!!!)
 8. Create library structure
 9. GitHub Actions - running tests
 10. Write first core feature (TBA)
