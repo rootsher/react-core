@@ -1,13 +1,13 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen } from "@testing-library/react";
 
-import { add, Component } from './index';
+import { add, Component } from "./index";
 
 test("renders button", async () => {
     render(<Component />);
 
     const $button = await screen.findByTestId("button");
 
-    expect($button).toHaveTextContent('button');
+    expect($button).toHaveTextContent("button");
 });
 
 test("adds numbers", () => {
