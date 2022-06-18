@@ -20,7 +20,7 @@ $ yarn test
 1. **~~TypeScript configuration~~**
 2. **~~Tests setup~~**
    1. ~~@testing-library/react~~
-3. **Add .editorconfig**
+3. **~~Add .editorconfig~~**
 4. **Configure eslint**
 5. **Add husky and lint-staged**
 6. **Make package installable (npm)**
