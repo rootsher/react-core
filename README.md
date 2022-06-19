@@ -19,7 +19,7 @@ $ yarn add @rootsher/react-core
 - time
 - routing
 - helpers
-- ...TBAuse-sheets-queue
+- ...TBA
 
 ## Commands
 
