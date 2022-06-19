@@ -1,4 +1,16 @@
-# @rootsher/react-core
+# [@rootsher/react-core](https://github.com/rootsher/react-core)
+
+[![npm version](https://img.shields.io/npm/v/@rootsher/react-core.svg)](https://www.npmjs.com/package/@rootsher/react-core)
+[![npm downloads](https://img.shields.io/npm/dm/@rootsher/react-core.svg)](https://www.npmjs.com/package/@rootsher/react-core)
+[![GitHub issues](https://img.shields.io/github/issues/rootsher/react-core.svg)](https://github.com/rootsher/react-core/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/rootsher/react-core.svg)](https://github.com/rootsher/react-core/pulls)
+[![MIT license](https://img.shields.io/npm/l/@rootsher/react-core.svg)](https://opensource.org/licenses/MIT)
+
+## Installation
+
+```sh
+$ yarn add @rootsher/react-core
+```
 
 ## Future Features
 
@@ -7,7 +19,7 @@
 - time
 - routing
 - helpers
-- ...TBA
+- ...TBAuse-sheets-queue
 
 ## Commands
 
@@ -24,7 +36,7 @@ $ yarn test
 4. **~~Configure eslint~~**
 5. **~~Add husky and lint-staged~~**
 6. **~~Make package installable (npm)~~**
-7. [in progress] Repository cleanup
+7. ~~Repository cleanup~~
 8. Create library structure
 9. GitHub Actions - running tests
 10. Write first core feature (TBA)
