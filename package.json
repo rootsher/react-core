@@ -1,6 +1,6 @@
 {
   "name": "@rootsher/react-core",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Core library for React projects",
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.ts",
